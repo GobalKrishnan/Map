@@ -1,4 +1,4 @@
-# Initial for country list
+# Initial for country list of 257 countrys 
 https://www.youtube.com/watch?v=BN3ie2ZieQc
 
 import java.awt.Toolkit;
